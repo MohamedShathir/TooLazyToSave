@@ -1,0 +1,19 @@
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Python Cache & Compiled files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
