@@ -1,6 +1,3 @@
-# TooLazyToSave
-A zero-effort Python utility that watches your clipboard and auto-saves screenshots as sequentially numbered files. Because Ctrl+S is too much work.
-
 # 😴 TooLazyToSave
 
 **Because `Ctrl+V` → `Ctrl+S` → `Type Filename` → `Enter` is just too much work.**
